@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\task hive\\server\\logs\\.3dc917647797fc59df84d7ffc88895fb33c99549-audit.json",
+    "files": [
+        {
+            "date": 1772260736007,
+            "name": "E:\\task hive\\server\\logs\\error-2026-02-28.log",
+            "hash": "747cfc4de9b2202238c58924cb984e4556d3fe352d727637b61cc22992ac1d30"
+        }
+    ],
+    "hashType": "sha256"
+}
